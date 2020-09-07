@@ -18,6 +18,6 @@
 
 6. Comment `/result` on the Application any time during the review to see the badge you have been assigned.
 
-7. Call `/@badging/badging-moderators` team when you have implemented reviewer feedback and they have made changes accordingly to the Review Checklists, or at a point in time where you wish to end the review.
+7. Call **@badging/badging-moderators** team when you have implemented reviewer feedback and they have made changes accordingly to the Review Checklists, or at a point in time where you wish to end the review.
 
 8. The review ends when a moderator confirms that the initial checks are met. The issue is closed using `/end` command in a comment by a moderator.

@@ -16,7 +16,7 @@
 
 5. Your event will be assessed by at least two reviewers, and a badge will be generated for you.
 
-6. Comment `/result` on the Application any time during the review to see the badge you have been assigned.
+6. Comment /result on the Application any time during the review to see the badge you have been assigned.
 
 7. Call badging/badging-moderators team when you have implemented reviewer feedback and they have made changes accordingly to the Review Checklists, or at a point in time where you wish to end the review.
 

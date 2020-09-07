@@ -2,8 +2,6 @@
 
 Please review the Diversity and Inclusion [Event Submission Guidelines](https://bit.ly/3jYBo8p)    before applying for an Event badge.
 
-
-
 Date        | Event name                                       | Badge              |Application Issue link     |
 ------------|--------------------------------------------------|--------------------|------------------------|
 Feb-01-2020 | Example Event                                    | ![Pending]         |<!--To be added later-->|
